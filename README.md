@@ -1,1 +1,1 @@
-# Sedgewick, Algorithms in C, third edition
+# Sedgewick, Algorithms in C, 3rd edition
