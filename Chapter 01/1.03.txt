@@ -1,0 +1,2 @@
+Define a counter of the initial number of sets. Each time union is called
+you decrease the counter by 1.

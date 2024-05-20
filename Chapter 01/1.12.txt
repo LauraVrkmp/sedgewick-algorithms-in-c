@@ -1,0 +1,4 @@
+The average distance of a node to the root is n/2.
+I don't understand why.
+
+https://cs.stackexchange.com/questions/101616/how-to-analyze-the-worst-case-of-weighted-quick-union-method-on-union-find
